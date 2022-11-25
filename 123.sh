@@ -13,3 +13,7 @@ read_input(){
 }
 
 read_inputs "enter v1" "enter v2" "enter operation +,-,x,/"
+123
+123
+123
+
